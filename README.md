@@ -1,6 +1,6 @@
 # FoodOrder
 
-DASS Assignment-1 required us to build a food ordering app. This is the non-dockerised version.
+Food ordering app built from scratch using MERN stack. This is the non-dockerised version.
 
 To run frontend run following commands 
 ```
